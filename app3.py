@@ -51,7 +51,7 @@ def wishMe():
     else:
         speak("Good Evening!")
 
-    speak("I am SWAEYAAM Sir. Please tell me how may I help you")
+    speak("I am Jarvis Sir. Please tell me how may I help you")
 
 
 def search_db(q):
